@@ -8,3 +8,5 @@ dist/
 demo/
 _demo/
 _demo2/
+.idea/
+*.iml

@@ -1,13 +1,13 @@
 {
-  "name": "orb-fix",
-  "version": "2.0.4",
+  "name": "orb-fix-and-switch-fix",
+  "version": "1.0.0",
   "license": "MIT",
-  "description": "Pivot table javascript library",
-  "author": "David Pelayo <hi@davidpelayo.com>",
+  "description": "A merger of two different fixes in separate forks of the original orb project",
+  "author": "Milan Stepanek <stepanek.milan89@gmail.com>",
   "homepage": "http://orbjs.net/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidpelayo/orb-latest.git"
+    "url": "https://github.com/MilanCZ/orb-latest"
   },
   "keywords": [
     "pivot table",
